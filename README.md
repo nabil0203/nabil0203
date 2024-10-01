@@ -1,9 +1,8 @@
-<h1 align="center">Hi 👋, I'm Nabil</h1>
-<h3 align="center">Software Engineering Student</h3>
-
+<h1 align="center">Hi, I'm Nabil👋</h1>
+<h2 align="center">Majoring in Software Engineering</h2>
 
 <img align="right" alt="Coding" width="400" src="https://s1.gifyu.com/images/S15iR.gif">
-🌱 I’m currently learning Data Structures and Algorithms using C++
+🌱 Currently learning Data Structures and Algorithms using C++
 
 📫 Reach me **nabilahmed0203@gmail.com**
 
