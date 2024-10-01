@@ -3,7 +3,7 @@
 
 
 <img align="right" alt="Coding" width="400" src="https://s1.gifyu.com/images/S15iR.gif">
-🌱 **I’m currently learning Data Structures and Algorithms using C++**
+🌱 I’m currently learning Data Structures and Algorithms using C++
 
 📫 Reach me **nabilahmed0203@gmail.com**
 
