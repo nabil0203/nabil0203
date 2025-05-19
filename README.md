@@ -1,7 +1,11 @@
+<div align="right">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=nabil0203.nabil0203&left_text=Total%20Visit"  />
+</div>
 <img align="left" height="200" src="https://s3.gifyu.com/images/bSNX6.gif"  />
-<h1 align="center">Hi, I'm Nabil👋</h1>
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Nabil!;" /></h1>
 <h2 align="center">Majoring in Software Engineering</h2>
 <br clear="both">
+
 
 ###
 
@@ -51,12 +55,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=nabil0203&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1&custom_title=GitHub%20Stats" height="170" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nabil0203&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2&custom_title=Languages" height="170" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=nabil0203&locale=en&mode=weekly&theme=dark&hide_border=false&border_radius=5&order=3" height="180" alt="streak graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=nabil0203.nabil0203&left_text=Total%20Visit"  />
 </div>
 
 
