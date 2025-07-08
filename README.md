@@ -4,7 +4,7 @@
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="50%" align='center'>
       <img src="https://s3.gifyu.com/images/bSNX6.gif" alt="coding gif" />
     </td>
     <td width="50%" align="center">
@@ -14,10 +14,9 @@
   </tr>
 </table>
 
+
 ###
 
-<h2 align="left">🎯About Me:</h2>
-###
 
 <h2 align="left">🎯About Me:</h2>
 <p align="left">🌱 Currently learning Data Structures & Algorithms using C++<br>🔭 Exploring Python and Django<br>💬 Passionate about Software Development with a goal to become a Project Manager<br>⚡Fun fact, I am enthusiastic about Geopolitics and Global Affairs</p>
