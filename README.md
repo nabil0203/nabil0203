@@ -2,12 +2,12 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=nabil0203.nabil0203&left_text=Total%20Visit"  />
 </div>
 
-<table>
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
-    <td width="50%" align='center'>
-      <img src="https://s3.gifyu.com/images/bSNX6.gif" alt="coding gif" />
+    <td width="50%" valign="middle">
+      <img src="https://s3.gifyu.com/images/bSNX6.gif" alt="coding gif" width="100%" />
     </td>
-    <td width="50%" align="center">
+    <td width="50%" valign="middle" align="center">
       <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Nabil!;" /></h1>
       <h2 align="center">Majoring in Software Engineering</h2>
     </td>
