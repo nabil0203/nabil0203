@@ -55,6 +55,8 @@
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="8" />
+  <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
