@@ -10,7 +10,8 @@
       </td>
       <td width="50%" valign="middle" align="center">
         <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=3000&lines=Hi+There!+👋;+I'm+Nabil!;" /></h1>
-        <h2 align="center">Majoring in Software Engineering</h2>
+        <h3 align="center">Web Developer</h2>
+        <h3 align="center">Majoring in Software Engineering</h2>
       </td>
     </tr>
   </table>
@@ -22,9 +23,9 @@
 
 <h2 align="left">🎯About Me:</h2>
 <p align="left">
-  🌱 Currently learning Data Structures & Algorithms using C++<br>
-  🔭 Exploring Python and Django<br>
+  🔭 Developing real-world projects using Django and React<br>
   💬 Passionate about Software Development with a goal to become a Project Manager<br>
+  🌱 Strong foundation in Data Structures & Algorithms using C++<br>
   ⚡Fun fact, I am enthusiastic about Geopolitics and Global Affairs
 </p>
 
@@ -33,13 +34,16 @@
 <h2 align="left">🔗Connect with me:</h2>
 <div align="left">
   <a href="https://www.linkedin.com/in/nabil0203" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
   </a>
   <a href="mailto:nabilahmed0203@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
   <a href="https://x.com/blaze_0203" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  </a>
+  <a href="https://wa.me/+8801709548627" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   </a>
 </div>
 
@@ -57,7 +61,11 @@
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=django" height="40" alt="django logo"  />
   <img width="8" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
+  <img width="8" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="postgresql logo"  />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
   <img width="8" />
